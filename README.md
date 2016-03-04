@@ -55,11 +55,11 @@ test();
 ####3. Qual é o resultado do código abaixo? Explique sua resposta.
 
 ```JS
-var fullname = 'Nestor Cerveró';
+var fullname = 'Nestor';
 var obj = {
-   fullname: 'Sergio Moro',
+   fullname: 'Sergio',
    prop: {
-      fullname: 'Luiz Inácio Lula da Silva',
+      fullname: 'Luiz',
       getFullname: function() {
          return this.fullname;
       }

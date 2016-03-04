@@ -18,11 +18,9 @@ As fontes utilizadas no layout, assim como o logo e a imagem de background, est�
 
 ###Exercício B : JavaScript
 
-####1.
+####1. Considere o código abaixo:
 
-Considere o código abaixo:
-
-```
+```JS
 (function() {
   'use strict';
   var a = b = 5;
@@ -37,11 +35,9 @@ b. O que será mostrado no console se retirar a linha `'use strict';` ?
 
 
 
-####2.
+####2. Qual é o resultado do código abaixo, e por que ?
 
-Qual é o resultado do código abaixo, e por que ?
-
-```
+```JS
 function test() {
    console.log(a);
    console.log(foo());
@@ -56,11 +52,9 @@ test();
 ```
 
 
-####3.
+####3. Qual é o resultado do código abaixo? Explique sua resposta.
 
-Qual é o resultado do código abaixo? Explique sua resposta.
-
-```
+```JS
 var fullname = 'Nestor Cerveró';
 var obj = {
    fullname: 'Sergio Moro',

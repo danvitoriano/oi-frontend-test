@@ -1,4 +1,4 @@
-#OI-FRONT-END-TEST
+#OI-FRONT-END TEST
 
 
 
@@ -18,7 +18,7 @@ As fontes utilizadas no layout, assim como o logo e a imagem de background, est�
 
 ###Exercício B : JavaScript
 
-####1. _Scope_
+####1.
 
 Considere o código abaixo:
 
@@ -37,7 +37,7 @@ b. O que será mostrado no console se retirar a linha `'use strict';` ?
 
 
 
-####2. _Hoisting_
+####2.
 
 Qual é o resultado do código abaixo, e por que ?
 
@@ -56,7 +56,7 @@ test();
 ```
 
 
-####3. _This_
+####3.
 
 Qual é o resultado do código abaixo? Explique sua resposta.
 
